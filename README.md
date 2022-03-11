@@ -1,1 +1,2 @@
-# belajar-OOP-MAIN
+# belajaroop
+Belajar memahami konsep dasar Object Oriented Programming (OOP) pada PHP
